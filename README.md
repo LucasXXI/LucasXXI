@@ -15,7 +15,8 @@
     <img align="left" alt="Typescript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> 
     <img align="left" alt="Javascript" width="26px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"/> 
     <img align="left" alt="React and React Native" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
-    <img align="left" alt="React and React Native" width="26px" src="<img align="left" alt="React and React Native" width="26px"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>"/>
+    <img align="left" alt="React and React Native" width="26px" src="<img align="left" alt="React and React Native" width="26px"  <img align="left" alt="Sass" width="26px" src="![image](https://user-images.githubusercontent.com/61033202/120794954-3e93ff80-c50f-11eb-9a9b-a0813a4873e7.png)
+"/>
 <!--
 **LucasXXI/LucasXXI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
