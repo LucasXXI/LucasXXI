@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+
+### Find me!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasleal2001/)
 
 
