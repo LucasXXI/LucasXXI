@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Find Me!
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasleal2001/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasXXI&count_private=true&theme=react&show_icons=true)
