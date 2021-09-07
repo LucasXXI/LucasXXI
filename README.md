@@ -3,8 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasleal2001/)
 
 
-(https://github-readme-stats.vercel.app/api?username=LucasXXI&count_private=true&theme=react&show_icons=true)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=LucasXXI&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=LucasXXI&count_private=true&theme=react&show_icons=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=LucasXXI&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats
 
 ## Technologies
 - Front-End: <div>
