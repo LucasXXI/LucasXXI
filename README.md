@@ -16,7 +16,7 @@
     <img align="left" alt="React and React Native" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
     <img align="left" alt="Sass" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"/>
     
-    
+<br>    
 - Back-End: <div>
     
 <!--
