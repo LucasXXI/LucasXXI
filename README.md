@@ -15,7 +15,8 @@
     <img align="left" alt="Javascript" width="26px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"/> 
     <img align="left" alt="React and React Native" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
     <img align="left" alt="Sass" width="26px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"/>
-
+- Back-End: <div>
+    
 <!--
 **LucasXXI/LucasXXI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
