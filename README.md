@@ -19,7 +19,7 @@ I'm always eager to expand my knowledge, take on challenges, and collaborate wit
     <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
 <br>    
 - Back-End: <div>
-<img align="left" alt=".NET Core" width="26px" src=https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-thumbnail.png/>
+<img align="left" alt=".NET Core" width="26px" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-thumbnail.png"/>
 <img align="left" alt="Typescript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
 <!--
 **LucasXXI/LucasXXI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
