@@ -21,7 +21,9 @@ I'm always eager to expand my knowledge, take on challenges, and collaborate wit
     <img align="left" alt="React and React Native" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
 <br>    
 - Back-End: <div>
-    
+ ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 <!--
 **LucasXXI/LucasXXI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
