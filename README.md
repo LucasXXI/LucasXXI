@@ -16,15 +16,11 @@ I'm always eager to expand my knowledge, take on challenges, and collaborate wit
 ## Technologies
 - Front-End: <div>
     <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img align="left" alt="Typescript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> 
-    <img align="left" alt="React and React Native" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
+    <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
 <br>    
 - Back-End: <div>
-<img align="left" alt=".NET Core" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFFz9h8VijGKdjUZcrtuny7dWANuvqLNBu3Q&s"/>
- ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+<img align="left" alt=".NET Core" width="26px" src=https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-thumbnail.png/>
+<img align="left" alt="Typescript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
 <!--
 **LucasXXI/LucasXXI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
