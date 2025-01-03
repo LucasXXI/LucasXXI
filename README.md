@@ -1,4 +1,11 @@
 ## Hi there 👋
+## About Me
+Hi there! I'm Lucas Leal, a **Backend Developer** enthusiastic about designing, implementing, and maintaining backend systems that deliver reliable and efficient results. With a focus on **.NET Core** ✨, **C#** 🔧, and **Microsoft SQL Server** 📈, I enjoy honing my skills and exploring innovative approaches to solve problems. My journey has also led me to gain valuable experience with **TypeScript** ☕ and **Python** 🔬, enabling me to contribute to diverse project needs.
+
+I'm always eager to expand my knowledge, take on challenges, and collaborate with others to create impactful solutions. Building scalable APIs, optimizing databases, and refining development processes are some of the areas where I thrive.
+
+---
+
 ### Find Me!
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasleal2001/)
 
